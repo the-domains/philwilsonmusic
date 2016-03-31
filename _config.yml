@@ -1,0 +1,28 @@
+name: philwilsonmusic
+favicon: null
+layout_spectrum: 0.17299282271414995
+typography_spectrum: 0.0019790376536548138
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5375569541938603
+  lightness: 0.06093500694260001
+  saturation: 0.6859498163685203
+  rhythmicContrast: 0.5799369609449059
+purpose: []
